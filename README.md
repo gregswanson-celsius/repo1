@@ -14,7 +14,7 @@ add historic commands to extract and load celsius assets
 
 add commands for extracting and loading influx with current asset prices. 
 
-## add dashboard panels exposing current and historic prices since celsius company inception.
+## add dashboard panels 
 
 include setup operations for local dashboards. 
 
